@@ -1,15 +1,51 @@
 # Group-Project-6
 
-Description of the dashboard and each widget 
-(what you want to show, why the particular chart is chosen), calculations 
+Project 6 | Descriptive, predictive analysis and visualization in Tableau
 
-AVERAGE TIME FOR TRANSACTION :
-•	Stating last Year’s i.e. ‘2021’ average time (in days) of all transactions (left side)
-•	Current Month-to-date average time status (in days) (right side)
+Content
 
-CHARGES BY PERIOD :
-•	Stating last Year’s i.e. ‘2021’ total paid charges i.e.’2021’ (Left side)
-•	Current Month status (Right side)  
+Introduction
+Project Goal
+Requirements
+Necessary Deliverables
+Presentation
+Suggested Ways to Get Started
+Introduction
+
+This project aims to practice in descriptive and prescriptive statistics and dashboards creation with Tableau.
+
+Project Goal
+
+The goals of this project is to develop the dashboard in Tableau. The dashboard should reflect the descriptive and predictive analysis of data and explain the state of the payments.
+
+Requirements
+
+We are going to use Trello for the project management. This time you will need to indicate there not only the names of the tasks but tasks description also.
+The domain is related to the crossborder payments, please read the recommended sourses to get knowledge about the subject.
+Examine the dataset for the possible issues
+Develop the system of Key Performance Indicators (or the system of widgets that should be shown). Please keep in mind the must-have answers:
+Average time for transaction
+Status of payment
+Total charges per period
+Payment status forecast
+Issues in correspondence chain
+Probability of delay
+Troubles forecast
+Develop the idea of your dashboard:
+what exactly you want to show?
+what should be the layout?
+which widgets represent the most powerful insights?
+Your dashboard should give the possibility to filter the data
+Please note, that you need to have at least 12 widgets that describe your data.
+Please note, you have at least 3 widgets that should reflect forecasted values.
+Describe the idea of the dashboard and each widget (what you want to show, why the particular chart is chosen), calculations in the readme file.
+After your dashboard is ready, please, create a presentation.
+Non-functional requirements:
+
+Use the corporate colors of the product
+Add logo of the product
+Add the SWIFT compatible label Please check the website https://paylocator.com/ for having mentioned detailes.
+Necessary Deliverables 
 
 STATUS OF PAYMENT in a colored treemap:
 We chose a treemap because the size of each quadrant is shaped by the total values
